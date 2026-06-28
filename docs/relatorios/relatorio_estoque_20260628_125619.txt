@@ -1,0 +1,47 @@
+
+📋 RELATÓRIO DE ESTOQUE — 28/06/2026 às 12:56
+=======================================================
+
+🚨 1. ALERTAS URGENTES
+   • Nenhum insumo em alerta crítico no momento.
+
+   Total de insumos em alerta:  0
+   Total de velas em alerta:    10
+
+📊 2. SITUAÇÃO GERAL DO ESTOQUE
+   • 20 insumos cadastrados no sistema
+   • Vendas nos últimos 30 dias: 118 unidades
+   • Receita no período: R$ 6949.20
+   • Ticket médio por venda: R$ 115.82
+
+📦 3. PLANO DE REPOSIÇÃO SUGERIDO
+   Baseado no consumo médio dos últimos 30 dias:
+   • Nenhum insumo em alerta crítico no momento.
+
+   ⚠️  Recomenda-se fazer os pedidos em até 5 dias úteis
+   para evitar ruptura de estoque.
+
+🕯️ 4. TOP 3 PRODUTOS MAIS VENDIDOS
+   • ESF-VEB-FGM-M — 9 unidades vendidas (R$ 693.00)
+   • CIL-AZS-FGM-P — 9 unidades vendidas (R$ 225.00)
+   • ESC-PRO-BVC-G — 8 unidades vendidas (R$ 1368.00)
+
+   Esses produtos devem ter estoque reforçado,
+   especialmente em períodos de alta sazonalidade
+   (Maio — Dia das Mães / Dezembro — Natal).
+
+💡 5. RECOMENDAÇÕES ESTRATÉGICAS
+   1. Mantenha estoque de segurança de 30 dias para
+      insumos críticos (ceras e essências).
+   2. Reforce a produção das velas mais vendidas antes
+      dos picos sazonais de Maio e Dezembro.
+   3. Negocie entregas quinzenais com fornecedores para
+      reduzir capital imobilizado em estoque.
+   4. Monitore diariamente os insumos em alerta vermelho.
+   5. Considere diversificar fornecedores para insumos
+      com alto consumo e poucos fornecedores cadastrados.
+
+=======================================================
+⚙️  [MODO SIMULADO — Integração Claude API disponível]
+    Para ativar análise real com IA, adicione créditos
+    em console.anthropic.com e configure o .env
