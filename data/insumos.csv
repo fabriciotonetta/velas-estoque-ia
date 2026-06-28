@@ -1,0 +1,21 @@
+id,nome,categoria,unidade,qtd_atual,qtd_minima,preco,fornecedor
+1,Cera de Parafina,Cera,kg,56.351919510582945,20.0,12.5,Ceras & Cia
+2,Cera de Soja,Cera,kg,48.220316076337284,15.0,18.9,Ceras & Cia
+3,Cera de Carnaúba,Cera,kg,20.75462347470071,8.0,32.0,NaturaCera Fornecimentos
+4,Cera de Abelha,Cera,kg,9.041967792352352,5.0,45.0,NaturaCera Fornecimentos
+5,Essência Lavanda & Baunilha,Essência,litro,5.686778028882472,1.0,89.0,Aromas Brasil Ltda
+6,Essência Rosa Búlgara,Essência,litro,3.5526028814851545,0.8,125.0,Essências do Vale
+7,Essência Sândalo & Âmbar,Essência,litro,3.5921518068174363,0.8,98.0,Aromas Brasil Ltda
+8,Essência Cedro & Bergamota,Essência,litro,1.8044683419896508,0.5,112.0,Essências do Vale
+9,Essência Baunilha & Canela,Essência,litro,4.064864803393682,1.2,76.0,Aromas Brasil Ltda
+10,Essência Jasmim Noturno,Essência,litro,2.398090080716047,0.6,95.0,Essências do Vale
+11,Pavio Algodão 15cm,Pavio,unidade,732.6864865549012,200.0,0.45,Pavios & Moldes ME
+12,Pavio Algodão 20cm,Pavio,unidade,639.4100199218816,150.0,0.6,Pavios & Moldes ME
+13,Corante Branco/Marfim,Corante,kg,0.9908580319010254,0.5,55.0,Corantes Naturais Brasil
+14,Corante Rosa/Vermelho,Corante,kg,1.2784494678639742,0.4,62.0,Corantes Naturais Brasil
+15,Corante Azul/Lavanda,Corante,kg,1.1483617574188278,0.3,58.0,Corantes Naturais Brasil
+16,Corante Verde/Terracota/Dourado,Corante,kg,1.0766779667541386,0.3,65.0,Corantes Naturais Brasil
+17,Pote de Vidro 80ml (P),Recipiente,unidade,146.5985486737438,80.0,3.2,Embalagens Premium
+18,Pote de Vidro 200ml (M),Recipiente,unidade,194.9336364161601,60.0,5.8,Embalagens Premium
+19,Pote de Vidro 400ml (G),Recipiente,unidade,106.33291893076454,40.0,9.5,Embalagens Premium
+20,Caixa Kraft Individual,Embalagem,unidade,215.32492640607336,100.0,1.8,Embalagens Premium

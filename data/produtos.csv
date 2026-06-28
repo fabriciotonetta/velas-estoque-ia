@@ -1,0 +1,101 @@
+codigo,cor,formato,perfume,tamanho,preco,estoque
+CIL-BRC-LVB-P,Branco Clássico,Cilíndrica,Lavanda & Baunilha,P,25.0,24
+CIL-BRC-LVB-M,Branco Clássico,Cilíndrica,Lavanda & Baunilha,M,55.0,8
+CIL-BRC-LVB-G,Branco Clássico,Cilíndrica,Lavanda & Baunilha,G,95.0,5
+CIL-BRC-RSB-P,Branco Clássico,Cilíndrica,Rosa Búlgara,P,25.0,28
+CIL-BRC-RSB-M,Branco Clássico,Cilíndrica,Rosa Búlgara,M,55.0,13
+CIL-BRC-RSB-G,Branco Clássico,Cilíndrica,Rosa Búlgara,G,95.0,9
+CIL-BRC-SDA-P,Branco Clássico,Cilíndrica,Sândalo & Âmbar,P,25.0,12
+CIL-BRC-SDA-M,Branco Clássico,Cilíndrica,Sândalo & Âmbar,M,55.0,9
+CIL-BRC-SDA-G,Branco Clássico,Cilíndrica,Sândalo & Âmbar,G,95.0,26
+CIL-BRC-CDB-P,Branco Clássico,Cilíndrica,Cedro & Bergamota,P,25.0,8
+CIL-BRC-CDB-M,Branco Clássico,Cilíndrica,Cedro & Bergamota,M,55.0,23
+CIL-BRC-CDB-G,Branco Clássico,Cilíndrica,Cedro & Bergamota,G,95.0,28
+CIL-BRC-JSN-P,Branco Clássico,Cilíndrica,Jasmim Noturno,P,25.0,19
+CIL-BRC-JSN-M,Branco Clássico,Cilíndrica,Jasmim Noturno,M,55.0,7
+CIL-BRC-JSN-G,Branco Clássico,Cilíndrica,Jasmim Noturno,G,95.0,20
+CIL-BRC-BVC-P,Branco Clássico,Cilíndrica,Baunilha & Canela,P,25.0,18
+CIL-BRC-BVC-M,Branco Clássico,Cilíndrica,Baunilha & Canela,M,55.0,6
+CIL-BRC-BVC-G,Branco Clássico,Cilíndrica,Baunilha & Canela,G,95.0,5
+CIL-BRC-EUH-P,Branco Clássico,Cilíndrica,Eucalipto & Hortelã,P,25.0,7
+CIL-BRC-EUH-M,Branco Clássico,Cilíndrica,Eucalipto & Hortelã,M,55.0,11
+CIL-BRC-EUH-G,Branco Clássico,Cilíndrica,Eucalipto & Hortelã,G,95.0,9
+CIL-BRC-PTV-P,Branco Clássico,Cilíndrica,Patchouli & Vetiver,P,25.0,21
+CIL-BRC-PTV-M,Branco Clássico,Cilíndrica,Patchouli & Vetiver,M,55.0,24
+CIL-BRC-PTV-G,Branco Clássico,Cilíndrica,Patchouli & Vetiver,G,95.0,3
+CIL-BRC-FGM-P,Branco Clássico,Cilíndrica,Figo & Madeira,P,25.0,22
+CIL-BRC-FGM-M,Branco Clássico,Cilíndrica,Figo & Madeira,M,55.0,11
+CIL-BRC-FGM-G,Branco Clássico,Cilíndrica,Figo & Madeira,G,95.0,26
+CIL-BRC-SNP-P,Branco Clássico,Cilíndrica,Sem Perfume,P,25.0,25
+CIL-BRC-SNP-M,Branco Clássico,Cilíndrica,Sem Perfume,M,55.0,27
+CIL-BRC-SNP-G,Branco Clássico,Cilíndrica,Sem Perfume,G,95.0,22
+CIL-MAR-LVB-P,Marfim,Cilíndrica,Lavanda & Baunilha,P,25.0,18
+CIL-MAR-LVB-M,Marfim,Cilíndrica,Lavanda & Baunilha,M,55.0,12
+CIL-MAR-LVB-G,Marfim,Cilíndrica,Lavanda & Baunilha,G,95.0,19
+CIL-MAR-RSB-P,Marfim,Cilíndrica,Rosa Búlgara,P,25.0,20
+CIL-MAR-RSB-M,Marfim,Cilíndrica,Rosa Búlgara,M,55.0,12
+CIL-MAR-RSB-G,Marfim,Cilíndrica,Rosa Búlgara,G,95.0,30
+CIL-MAR-SDA-P,Marfim,Cilíndrica,Sândalo & Âmbar,P,25.0,5
+CIL-MAR-SDA-M,Marfim,Cilíndrica,Sândalo & Âmbar,M,55.0,29
+CIL-MAR-SDA-G,Marfim,Cilíndrica,Sândalo & Âmbar,G,95.0,30
+CIL-MAR-CDB-P,Marfim,Cilíndrica,Cedro & Bergamota,P,25.0,8
+CIL-MAR-CDB-M,Marfim,Cilíndrica,Cedro & Bergamota,M,55.0,27
+CIL-MAR-CDB-G,Marfim,Cilíndrica,Cedro & Bergamota,G,95.0,18
+CIL-MAR-JSN-P,Marfim,Cilíndrica,Jasmim Noturno,P,25.0,15
+CIL-MAR-JSN-M,Marfim,Cilíndrica,Jasmim Noturno,M,55.0,10
+CIL-MAR-JSN-G,Marfim,Cilíndrica,Jasmim Noturno,G,95.0,9
+CIL-MAR-BVC-P,Marfim,Cilíndrica,Baunilha & Canela,P,25.0,11
+CIL-MAR-BVC-M,Marfim,Cilíndrica,Baunilha & Canela,M,55.0,28
+CIL-MAR-BVC-G,Marfim,Cilíndrica,Baunilha & Canela,G,95.0,15
+CIL-MAR-EUH-P,Marfim,Cilíndrica,Eucalipto & Hortelã,P,25.0,6
+CIL-MAR-EUH-M,Marfim,Cilíndrica,Eucalipto & Hortelã,M,55.0,7
+CIL-MAR-EUH-G,Marfim,Cilíndrica,Eucalipto & Hortelã,G,95.0,10
+CIL-MAR-PTV-P,Marfim,Cilíndrica,Patchouli & Vetiver,P,25.0,5
+CIL-MAR-PTV-M,Marfim,Cilíndrica,Patchouli & Vetiver,M,55.0,16
+CIL-MAR-PTV-G,Marfim,Cilíndrica,Patchouli & Vetiver,G,95.0,13
+CIL-MAR-FGM-P,Marfim,Cilíndrica,Figo & Madeira,P,25.0,24
+CIL-MAR-FGM-M,Marfim,Cilíndrica,Figo & Madeira,M,55.0,13
+CIL-MAR-FGM-G,Marfim,Cilíndrica,Figo & Madeira,G,95.0,28
+CIL-MAR-SNP-P,Marfim,Cilíndrica,Sem Perfume,P,25.0,6
+CIL-MAR-SNP-M,Marfim,Cilíndrica,Sem Perfume,M,55.0,28
+CIL-MAR-SNP-G,Marfim,Cilíndrica,Sem Perfume,G,95.0,19
+CIL-ROQ-LVB-P,Rosa Quartzo,Cilíndrica,Lavanda & Baunilha,P,25.0,22
+CIL-ROQ-LVB-M,Rosa Quartzo,Cilíndrica,Lavanda & Baunilha,M,55.0,8
+CIL-ROQ-LVB-G,Rosa Quartzo,Cilíndrica,Lavanda & Baunilha,G,95.0,17
+CIL-ROQ-RSB-P,Rosa Quartzo,Cilíndrica,Rosa Búlgara,P,25.0,7
+CIL-ROQ-RSB-M,Rosa Quartzo,Cilíndrica,Rosa Búlgara,M,55.0,19
+CIL-ROQ-RSB-G,Rosa Quartzo,Cilíndrica,Rosa Búlgara,G,95.0,12
+CIL-ROQ-SDA-P,Rosa Quartzo,Cilíndrica,Sândalo & Âmbar,P,25.0,25
+CIL-ROQ-SDA-M,Rosa Quartzo,Cilíndrica,Sândalo & Âmbar,M,55.0,24
+CIL-ROQ-SDA-G,Rosa Quartzo,Cilíndrica,Sândalo & Âmbar,G,95.0,16
+CIL-ROQ-CDB-P,Rosa Quartzo,Cilíndrica,Cedro & Bergamota,P,25.0,23
+CIL-ROQ-CDB-M,Rosa Quartzo,Cilíndrica,Cedro & Bergamota,M,55.0,8
+CIL-ROQ-CDB-G,Rosa Quartzo,Cilíndrica,Cedro & Bergamota,G,95.0,27
+CIL-ROQ-JSN-P,Rosa Quartzo,Cilíndrica,Jasmim Noturno,P,25.0,7
+CIL-ROQ-JSN-M,Rosa Quartzo,Cilíndrica,Jasmim Noturno,M,55.0,6
+CIL-ROQ-JSN-G,Rosa Quartzo,Cilíndrica,Jasmim Noturno,G,95.0,26
+CIL-ROQ-BVC-P,Rosa Quartzo,Cilíndrica,Baunilha & Canela,P,25.0,10
+CIL-ROQ-BVC-M,Rosa Quartzo,Cilíndrica,Baunilha & Canela,M,55.0,29
+CIL-ROQ-BVC-G,Rosa Quartzo,Cilíndrica,Baunilha & Canela,G,95.0,14
+CIL-ROQ-EUH-P,Rosa Quartzo,Cilíndrica,Eucalipto & Hortelã,P,25.0,7
+CIL-ROQ-EUH-M,Rosa Quartzo,Cilíndrica,Eucalipto & Hortelã,M,55.0,12
+CIL-ROQ-EUH-G,Rosa Quartzo,Cilíndrica,Eucalipto & Hortelã,G,95.0,8
+CIL-ROQ-PTV-P,Rosa Quartzo,Cilíndrica,Patchouli & Vetiver,P,25.0,17
+CIL-ROQ-PTV-M,Rosa Quartzo,Cilíndrica,Patchouli & Vetiver,M,55.0,11
+CIL-ROQ-PTV-G,Rosa Quartzo,Cilíndrica,Patchouli & Vetiver,G,95.0,19
+CIL-ROQ-FGM-P,Rosa Quartzo,Cilíndrica,Figo & Madeira,P,25.0,25
+CIL-ROQ-FGM-M,Rosa Quartzo,Cilíndrica,Figo & Madeira,M,55.0,16
+CIL-ROQ-FGM-G,Rosa Quartzo,Cilíndrica,Figo & Madeira,G,95.0,10
+CIL-ROQ-SNP-P,Rosa Quartzo,Cilíndrica,Sem Perfume,P,25.0,16
+CIL-ROQ-SNP-M,Rosa Quartzo,Cilíndrica,Sem Perfume,M,55.0,16
+CIL-ROQ-SNP-G,Rosa Quartzo,Cilíndrica,Sem Perfume,G,95.0,6
+CIL-LAV-LVB-P,Lavanda,Cilíndrica,Lavanda & Baunilha,P,25.0,26
+CIL-LAV-LVB-M,Lavanda,Cilíndrica,Lavanda & Baunilha,M,55.0,13
+CIL-LAV-LVB-G,Lavanda,Cilíndrica,Lavanda & Baunilha,G,95.0,27
+CIL-LAV-RSB-P,Lavanda,Cilíndrica,Rosa Búlgara,P,25.0,24
+CIL-LAV-RSB-M,Lavanda,Cilíndrica,Rosa Búlgara,M,55.0,25
+CIL-LAV-RSB-G,Lavanda,Cilíndrica,Rosa Búlgara,G,95.0,7
+CIL-LAV-SDA-P,Lavanda,Cilíndrica,Sândalo & Âmbar,P,25.0,24
+CIL-LAV-SDA-M,Lavanda,Cilíndrica,Sândalo & Âmbar,M,55.0,24
+CIL-LAV-SDA-G,Lavanda,Cilíndrica,Sândalo & Âmbar,G,95.0,8
+CIL-LAV-CDB-P,Lavanda,Cilíndrica,Cedro & Bergamota,P,25.0,22

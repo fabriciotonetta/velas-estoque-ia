@@ -1,0 +1,12 @@
+==================================================
+MÉTRICAS DO MODELO — VELAS ESTOQUE IA
+==================================================
+Data de treinamento: 28/06/2026 12:28
+
+MODELO DE INSUMOS:
+  MAE: 9.3329
+  R²:  0.6881
+
+MODELO DE VELAS:
+  MAE: 0.7215
+  R²:  -0.1270
