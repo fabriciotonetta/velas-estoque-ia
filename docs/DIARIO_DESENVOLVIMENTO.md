@@ -72,3 +72,28 @@
 
 \---
 
+---
+
+## 📅 Sessão 2 — Backend, ML, IA e Dashboard
+
+**Status:** ✅ Concluído
+
+### O que foi feito
+- Criados modelos do banco de dados com SQLAlchemy (5 tabelas)
+- Gerados 12 meses de dados históricos realistas com sazonalidade
+- Implementada API REST com FastAPI (12 endpoints)
+- Criados 7 testes automatizados com Pytest
+- Treinado modelo Random Forest para previsão de demanda
+- Implementado assistente de IA (modo simulado, pronto para Claude API)
+- Criado dashboard completo com Streamlit e Plotly (6 páginas)
+
+### Decisões técnicas
+- Modo simulado para IA mantém estrutura profissional sem custo de API
+- Cache do modelo ML com `@st.cache_resource` para performance
+- Dashboard organizado em 6 páginas para melhor UX
+
+### Aprendizados
+- SQLAlchemy ORM facilita muito a manipulação do banco em Python
+- Random Forest é robusto mesmo com dados sintéticos
+- Streamlit permite dashboards profissionais sem HTML/CSS
+
