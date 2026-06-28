@@ -1,0 +1,32 @@
+# ================================================================
+# VELAS ESTOQUE IA — Dependências do Projeto
+# ================================================================
+
+# --- Banco de Dados ---
+sqlalchemy==2.0.36          # ORM para manipular banco de dados com Python
+
+# --- API REST ---
+fastapi==0.115.5            # Framework para criar endpoints REST
+uvicorn==0.32.1             # Servidor que roda o FastAPI
+
+# --- Machine Learning ---
+scikit-learn==1.5.2         # Algoritmos de ML (usaremos Random Forest)
+pandas==2.2.3               # Manipulação de dados em tabelas
+numpy==2.1.3                # Cálculos matemáticos
+
+# --- Visualização / Dashboard ---
+streamlit==1.40.1           # Dashboard interativo sem precisar de HTML/CSS
+plotly==5.24.1              # Gráficos bonitos e interativos
+matplotlib==3.9.2           # Gráficos clássicos
+
+# --- Inteligência Artificial ---
+anthropic==0.39.0           # SDK oficial da Anthropic (Claude AI)
+
+# --- Utilitários ---
+python-dotenv==1.0.1        # Lê variáveis secretas do arquivo .env
+joblib==1.4.2               # Salvar e carregar o modelo de ML
+faker==30.8.1               # Gerar dados falsos realistas
+requests==2.32.3            # Fazer requisições HTTP
+
+# --- Testes ---
+pytest==8.3.3               # Rodar testes automatizados
